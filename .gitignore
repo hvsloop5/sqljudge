@@ -1,0 +1,9 @@
+# 环境变量（含密钥），不上传
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 评估输出结果
+eval_results/*
