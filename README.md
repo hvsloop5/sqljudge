@@ -1,4 +1,4 @@
-# SQLJudge-Bench: A Text2SQL Reward Model Evaluation Framework
+# SQLJudge: Benchmarking and Learning Generative Reward Models for Execution-Free Text-to-SQL Candidate Selection
 
 SQLJudge-Bench evaluates the **judgment quality of Text2SQL reward models**. Given a user question, a database schema, and two candidate responses (Response A / Response B), the model under evaluation acts as a *judge* and decides which response is better. The framework quantifies a model's judging ability along three dimensions:
 
